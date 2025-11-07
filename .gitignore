@@ -1,0 +1,13 @@
+# outputs
+*.pdf
+gfg_pdfs/
+
+# python noise
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# playwright/browser cache (if any)
+playwright/.cache/
